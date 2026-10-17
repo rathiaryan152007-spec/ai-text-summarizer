@@ -12,3 +12,13 @@ google-genai SDK.
 1. Set your Gemini API Key in your terminal:
    ```cmd
    set GEMINI_API_KEY=your_api_key_here
+   ```bash
+   2. **Install dependencies:**
+   - Windows/Mac/Linux:
+   `pip install google-genai`
+   ```
+   ```bash
+   3. **Run the tool:**
+   - Execute the script in your terminal:
+   `python main.py`
+   ```
