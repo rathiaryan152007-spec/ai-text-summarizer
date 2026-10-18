@@ -23,3 +23,7 @@ google-genai SDK.
    - Execute the script in your terminal:
    `python main.py`
    ```
+
+**Author:** Aryan Rathi
+**CU ID:** CU26220292
+**Branch:** AI/ML
