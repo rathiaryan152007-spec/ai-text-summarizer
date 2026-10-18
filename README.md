@@ -6,7 +6,7 @@ A Python application built with the Google Gemini API to automatically summarize
 - Connects to Google's 
 google-genai SDK.
 - Handles server busy errors (503 Service Unavailable) automatically with retries.
-- Multi-model fallback strategy (gemini-3.5-flash-lite, gemini-2.5-flash, gemini-1.5-flash).
+- Multi-model fallback strategy (gemini-3.8-flash).
 
 ## Setup & Usage
 1. Set your Gemini API Key in your terminal:
